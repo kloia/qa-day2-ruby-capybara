@@ -1,0 +1,1 @@
+default: "--format json --format AllureCucumber::CucumberFormatter --out output/allure-results --publish-quiet"
